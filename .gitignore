@@ -1,0 +1,10 @@
+data/*/
+goodones/
+logs/
+save/
+.idea/
+*.pyc
+*.abc
+
+.vagrant/
+ubuntu-xenial-16.04-cloudimg-console.log
